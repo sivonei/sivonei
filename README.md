@@ -1,7 +1,12 @@
-<h2 align="center">Hi there 👋, I'm Sivonei Ribeiro</h2>
+<h2 align="center">Hi there, I'm Sivonei Ribeiro</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sivonei-ribeiro-00014078/" alt="LinkedIn"/>
-  <a href="https://www.linkedin.com/in/sivonei-ribeiro-00014078/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/sivonei-ribeiro-00014078/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sivonei?tab=repositories">
+    <img src="https://img.shields.io/badge/My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
+  </a>
 </p>
 
 <p align="center">
@@ -10,41 +15,35 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 💻 Passionate about technology and problem-solving.
-- 🛠️ Experienced in technical support, networks, Linux systems, DevOps practices, and cloud solutions.
-- 🚀 Always looking to learn and work on innovative projects.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-</p>
+- Passionate about technology and problem-solving.
+- Experienced in technical support, networks, Linux systems, DevOps practices, and cloud solutions.
+- Always looking to learn and work on innovative projects.
 
 ---
 
-### 📊 GitHub Stats
+### Tech Stack
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivonei&show_icons=true&theme=tokyonight" alt="Sivonei's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivonei&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
+
 
 ---
 
 ### 🌐 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/sivonei-ribeiro-00014078/)
+- [Repositories](https://github.com/sivonei?tab=repositories)
 
 ---
 
